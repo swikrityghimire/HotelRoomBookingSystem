@@ -1,0 +1,17 @@
+/Applications/College/Training/HotelRoomBooking/DataLayer/bin/Release/net6.0/DataLayer.deps.json
+/Applications/College/Training/HotelRoomBooking/DataLayer/bin/Release/net6.0/DataLayer.runtimeconfig.json
+/Applications/College/Training/HotelRoomBooking/DataLayer/bin/Release/net6.0/DataLayer.dll
+/Applications/College/Training/HotelRoomBooking/DataLayer/bin/Release/net6.0/DataLayer.pdb
+/Applications/College/Training/HotelRoomBooking/DataLayer/bin/Release/net6.0/CoreLibrary.dll
+/Applications/College/Training/HotelRoomBooking/DataLayer/bin/Release/net6.0/CoreLibrary.pdb
+/Applications/College/Training/HotelRoomBooking/DataLayer/obj/Release/net6.0/DataLayer.csproj.AssemblyReference.cache
+/Applications/College/Training/HotelRoomBooking/DataLayer/obj/Release/net6.0/DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/College/Training/HotelRoomBooking/DataLayer/obj/Release/net6.0/DataLayer.AssemblyInfoInputs.cache
+/Applications/College/Training/HotelRoomBooking/DataLayer/obj/Release/net6.0/DataLayer.AssemblyInfo.cs
+/Applications/College/Training/HotelRoomBooking/DataLayer/obj/Release/net6.0/DataLayer.csproj.CoreCompileInputs.cache
+/Applications/College/Training/HotelRoomBooking/DataLayer/obj/Release/net6.0/DataLayer.csproj.CopyComplete
+/Applications/College/Training/HotelRoomBooking/DataLayer/obj/Release/net6.0/DataLayer.dll
+/Applications/College/Training/HotelRoomBooking/DataLayer/obj/Release/net6.0/refint/DataLayer.dll
+/Applications/College/Training/HotelRoomBooking/DataLayer/obj/Release/net6.0/DataLayer.pdb
+/Applications/College/Training/HotelRoomBooking/DataLayer/obj/Release/net6.0/DataLayer.genruntimeconfig.cache
+/Applications/College/Training/HotelRoomBooking/DataLayer/obj/Release/net6.0/ref/DataLayer.dll

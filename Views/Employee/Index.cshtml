@@ -1,0 +1,52 @@
+﻿@using CoreLibrary.Models;
+@model IEnumerable<Employee>
+
+@{
+    ViewData["Title"] = "Employee List";
+}
+
+<h2>Employee List</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Position</th>
+            <th>Department</th>
+            <th>Email</th>
+            <th>Phone No.</th>
+            <th>Date of Birth</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var emp in Model)
+        {
+            <tr>
+                <td>@emp.Name</td>
+                <td>@emp.Position</td>
+                <td>@emp.Department</td>
+                <td>@emp.Email</td>
+                <td>@emp.PhoneNo</td>
+                <td>@emp.DOB</td>
+                <td><a asp-action="Details" asp-route-id="@emp.Id" class="btn btn-primary"> View Details </a></td>
+                <td><a asp-action="Delete" asp-route-id="@emp.Id" class="btn btn-primary" onclick=" return confirmDelete()"> Delete </a></td>
+                <td><a asp-action="Edit" asp-route-id="@emp.Id" class="btn btn-primary"> Edit </a></td>
+            </tr>
+        }
+
+    </tbody>
+</table>
+
+@section Scripts{
+
+    <script type="text/javascript">function confirmDelete() {
+            return confirm('Are you sure you want to be delete this employee?');
+        }</script>
+
+}

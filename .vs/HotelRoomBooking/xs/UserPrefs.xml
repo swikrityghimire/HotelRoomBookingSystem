@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{9A6E9261-1041-4E3E-8E66-6AD9AA6E8AAA}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <DisabledProjects>
+    <String>Business Library/BusinessLayer.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workbench ActiveDocument="appsettings.json">
+    <Files>
+      <File FileName="Controllers/EmployeeController.cs" />
+      <File FileName="DataLayer/EmployeeDL.cs" />
+      <File FileName="DataLayer/DataContext/AppDbContext.cs" />
+      <File FileName="BusinessLayer/EmployeeBL.cs" />
+      <File FileName="Views/Employee/Index.cshtml" />
+      <File FileName="Program.cs" />
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="Views/Employee/Details.cshtml" />
+      <File FileName="Views/Employee/Delete.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HotelRoomBooking" expanded="True">
+            <Node name="DataLayer" expanded="True" />
+            <Node name="HotelRoomBooking" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DataLayer" expanded="True">
+                <Node name="DataContext" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Employee" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HotelRoomBooking PreferredExecutionTarget="/Applications/College/Google Chrome.app" />
+</Properties>
